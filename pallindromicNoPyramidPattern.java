@@ -26,5 +26,6 @@ public class Main
 	        
 	        System.out.println(" ");
 	    }
+		//There is no need for number variable
 	}
 }
