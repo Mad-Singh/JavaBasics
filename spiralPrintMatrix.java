@@ -14,9 +14,7 @@ public class Main {
         }
         
         int rs=0,re=row-1,cs=0,ce=col-1;
-       
     
- 
         do{
             for(int i=cs;i<=ce;i++){
                 System.out.print(mat[rs][i]+" ");
