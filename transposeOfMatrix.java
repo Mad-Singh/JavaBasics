@@ -18,10 +18,7 @@ public class Main {
                 System.out.print(mat[j][i]+" ");
             }
             System.out.println();
-        }
-       
-
-      
+        } 
    }
 }
 
