@@ -12,3 +12,4 @@ public class ReplaceE{
 	    System.out.println(input);
 	}    
 }
+
