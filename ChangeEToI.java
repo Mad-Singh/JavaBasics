@@ -16,8 +16,6 @@ public class ChangeEToI
 	    for(int i=0; i<inputStr.length();i++){
 	        outputStr+= arr[i];
 	    }
-	    
-	    
 	    System.out.println(outputStr);
 	    
 	}
