@@ -17,6 +17,5 @@ public class ChangeEToI
 	        outputStr+= arr[i];
 	    }
 	    System.out.println(outputStr);
-	    
 	}
 }
