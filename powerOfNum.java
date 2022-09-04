@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class Main
 {
     public static void powerOfNo(int x, int n){
