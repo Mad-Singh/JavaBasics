@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class ChangeEToI
 {
 	public static void main(String[] args) {
