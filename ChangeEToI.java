@@ -10,9 +10,7 @@ public class ChangeEToI
 	            arr[i] = "i";
 	        }
 	    }
-		
 	    String outputStr="";
-	    
 	    for(int i=0; i<inputStr.length();i++){
 	        outputStr+= arr[i];
 	    }
