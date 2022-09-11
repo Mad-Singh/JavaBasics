@@ -8,11 +8,10 @@ public class Main
         
         return;
     }
-	public static void main(String[] args) {
-	    Scanner sc= new Scanner(System.in);
-	    int r= sc.nextInt();
-	   
-	    circumference(r);
+    public static void main(String[] args) {
+	Scanner sc= new Scanner(System.in);
+	int r= sc.nextInt();   
+	circumference(r);
 	     
-	}
+    }
 }
